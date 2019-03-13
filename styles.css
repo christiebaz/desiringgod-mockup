@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+
+
+  .header {
+    display:flex;
+    justify-content: space-between;
+    padding: 20px;
+    border-bottom:  1px solid ;
+  }
+
+  .logo a {
+    text-decoration: none;
+  }
+
+  .navigation {
+    width: 100%;
+  }
+
+  .navigation a {
+    text-decoration: none;
+  }
